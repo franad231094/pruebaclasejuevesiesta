@@ -1,0 +1,9 @@
+.columna {
+  border: 5px solid red;
+  height: 100px;
+}
+
+.container {
+  margin-top: 20px;
+  border: 1px solid blue;
+}
